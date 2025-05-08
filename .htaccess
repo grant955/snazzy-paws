@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Restricted Staff Roster"
+AuthUserFile /path/to/.htpasswd
+Require valid-user
